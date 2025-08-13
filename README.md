@@ -1,4 +1,4 @@
-  🔵⚪ Knappenschnüffler - Der Schalke Ticket-Späher
+  ## 🔵⚪ Knappenschnüffler - Der Schalke Ticket-Späher
 
   Ein fleißiger Python-Crawler, der wie ein treuer Kumpel im Schacht nach neuen Schalke-Spielen auf der Ticket-Website gräbt!
 
