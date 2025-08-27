@@ -1,4 +1,6 @@
 
+## DSC Arminia Bielefeld - S04
+- Datum: 04. Okt
 ## Auswärtsanfrage Hannover 96 - S04
 - Datum: 18. Okt
 ## Auswärtsanfrage Karlsruher SC - S04
