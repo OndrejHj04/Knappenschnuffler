@@ -1,6 +1,6 @@
 
-## DSC Arminia Bielefeld - S04
-- Datum: 04. Okt
+## Auswärtsanfrage FC BOHEMIANS DUBLIN - FC SCHALKE 04
+- Datum: 11. Okt
 ## Auswärtsanfrage Hannover 96 - S04
 - Datum: 18. Okt
 ## Auswärtsanfrage Karlsruher SC - S04
