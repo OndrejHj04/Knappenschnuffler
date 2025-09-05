@@ -2,7 +2,7 @@
 ## Auswärtsanfrage FC BOHEMIANS DUBLIN - FC SCHALKE 04
 - Datum: 11. Okt
 ## Auswärtsanfrage Hannover 96 - S04
-- Datum: 18. Okt
+- Datum: 17. Okt
 ## Auswärtsanfrage Karlsruher SC - S04
 - Datum: 01. Nov
 ## Auswärtsanfrage SC Preußen Münster - S04
