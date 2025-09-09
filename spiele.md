@@ -1,8 +1,6 @@
 
-## Auswärtsanfrage FC BOHEMIANS DUBLIN - FC SCHALKE 04
-- Datum: 11. Okt
-## Auswärtsanfrage Hannover 96 - S04
-- Datum: 17. Okt
+## Auswärtsanfrage SV Darmstadt 98 - S04 2. Runde DFB-Pokal
+- Datum: 29. Okt
 ## Auswärtsanfrage Karlsruher SC - S04
 - Datum: 01. Nov
 ## Auswärtsanfrage SC Preußen Münster - S04
