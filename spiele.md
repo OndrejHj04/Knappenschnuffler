@@ -1,8 +1,4 @@
 
-## SV Darmstadt 98 - S04 2. Runde DFB-Pokal
-- Datum: 29. Okt
-## Karlsruher SC - S04
-- Datum: 01. Nov
 ## SC Preußen Münster - S04
 - Datum: 22. Nov
 ## Fortuna Düsseldorf - S04 
