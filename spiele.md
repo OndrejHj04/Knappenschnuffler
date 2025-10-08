@@ -1,4 +1,6 @@
 
+## FC Twente - FC Schalke 04
+- Datum: 13. Nov
 ## SC Preußen Münster - S04
 - Datum: 22. Nov
 ## Fortuna Düsseldorf - S04 
