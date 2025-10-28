@@ -1,8 +1,6 @@
 
 ## FC Twente - FC Schalke 04
 - Datum: 13. Nov
-## Fortuna Düsseldorf - S04 
-- Datum: 06. Dez
 ## Eintracht Braunschweig - S04
 - Datum: 20. Dez
 ## Hertha BSC - S04
