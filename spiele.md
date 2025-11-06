@@ -2,7 +2,7 @@
 ## FC Twente - FC Schalke 04
 - Datum: 13. Nov
 ## Eintracht Braunschweig - S04
-- Datum: 20. Dez
+- Datum: 21. Dez
 ## Hertha BSC - S04
 - Datum: 17. Jan
 ## VfL Bochum 1848 - S04
