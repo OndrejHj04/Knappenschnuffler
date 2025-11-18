@@ -1,6 +1,4 @@
 
-## SC Preußen Münster - S04
-- Datum: 22. Nov
 ## Hertha BSC - S04
 - Datum: 17. Jan
 ## VfL Bochum 1848 - S04
