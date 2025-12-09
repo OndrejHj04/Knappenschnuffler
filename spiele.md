@@ -1,6 +1,4 @@
 
-## Hertha BSC - S04
-- Datum: 17. Jan
 ## VfL Bochum 1848 - S04
 - Datum: 31. Jan
 ## Holstein Kiel - S04
