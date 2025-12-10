@@ -1,4 +1,6 @@
 
+## Testspiel VfL Osnabrück - S04       
+- Datum: 10. Jan
 ## VfL Bochum 1848 - S04
 - Datum: 31. Jan
 ## Holstein Kiel - S04
