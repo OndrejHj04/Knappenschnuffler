@@ -1,10 +1,8 @@
 
-## Testspiel VfL Osnabrück - S04       
-- Datum: 10. Jan
 ## VfL Bochum 1848 - S04
 - Datum: 31. Jan
 ## Holstein Kiel - S04
-- Datum: 14. Feb
+- Datum: 15. Feb
 ## SpVgg Greuther Fürth - S04
 - Datum: 28. Feb
 ## SV Darmstadt 98 - S04
