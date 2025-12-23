@@ -1,6 +1,4 @@
 
-## VfL Bochum 1848 - S04
-- Datum: 31. Jan
 ## Holstein Kiel - S04
 - Datum: 15. Feb
 ## SpVgg Greuther Fürth - S04
